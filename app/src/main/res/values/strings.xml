@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BAC</string>
+    <string name="action_getElevi">Elevi</string>
+    <string name="action_getLicee">Licee</string>
+    <string name="action_getProfiluri">Profiluri</string>
+    <string name="action_getSpecializari">Specializari</string>
+    <string name="action_getDiscipline">Discipline</string>
+    <string name="title_activity_get_elevi">getEleviActivity</string>
+    <string name="title_activity_date__elev">Date_Elev</string>
+    <string name="title_activity_adaugare_elev">AdaugareElev</string>
+    
+    <string-array name="licee">
+        <item>Grigore Moisil</item>
+    </string-array>
+</resources>
